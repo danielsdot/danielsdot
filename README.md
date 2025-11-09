@@ -36,7 +36,7 @@
 > Em breve ~ ...
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielsdot)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/your-profile-url)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/danielsdot#)
 [![ArtStation](https://img.shields.io/badge/ArtStation-000000?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/your-profile-url)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@danielsdot)
 </div>
