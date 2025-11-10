@@ -1,4 +1,4 @@
-<strong>[Biográfia em Português-BR]()</strong>
+<strong>[Biográfia em Português-BR](https://github.com/danielsdot/danielsdot/blob/main/README-BR.md)</strong>
   # <p align="justify">Olá, seja bem-vindo! ✨</p>
   <p align="justify">Sou um aprendiz por "hobby", pode se dizer que estou aberto para aprender o que der e vier mas estou com objetivo de ser um <strong>Desenvolvedor de Jogos 🕹️🎮</strong> pois acredito que seja uma das <strong>melhores formas de arte</strong> existentes. Estou estudando na área de Design Gráfico, Tecnologia da Informação, Modelagem 3D, Direção de Arte, Desenvolvimento de Jogos</p>
 
