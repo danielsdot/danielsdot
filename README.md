@@ -8,7 +8,7 @@
 
 ## Meus conhecimentos
 
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://en.wikipedia.org/wiki/Linux)
+[![Linux](https://img.shields.io/badge/Linux-2222aa?style=for-the-badge&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![HTML](https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS3-563d7c?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Godot](https://img.shields.io/badge/Godot-3555A8?style=for-the-badge&logo=godot&logoColor=white)](https://godotengine.org)
