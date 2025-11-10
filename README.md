@@ -1,3 +1,4 @@
+<a url="https://www.teste.com">Biográfia em Português-BR</a>
 <div>
   <p align="justify">Olá, seja bem-vindo! ✨</p>
   <p align="justify">Sou um aprendiz por "hobby", pode se dizer que estou aberto para aprender o que der e vier mas estou com objetivo de ser um <strong>Desenvolvedor de Jogos 🕹️🎮</strong> pois acredito que seja uma das <strong>melhores formas de arte</strong> existentes. Estou estudando na área de Design Gráfico, Tecnologia da Informação, Modelagem 3D, Direção de Arte, Desenvolvimento de Jogos</p>
@@ -9,23 +10,15 @@
 
 <h3>Meus conhecimentos</h3>
 
-<h4>Tecnologia da Informação</h4>
-
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://en.wikipedia.org/wiki/Linux)
-[![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-563d7c?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![HTML](https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS3-563d7c?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Godot](https://img.shields.io/badge/Godot-3555A8?style=for-the-badge&logo=godot&logoColor=white)](https://godotengine.org)
-
-<h4>Design e Arte</h4>
-
 [![GIMP](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)](https://www.gimp.org)
 [![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)](https://inkscape.org)
 [![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org)
 [![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://www.adobe.com/products/photoshop.html)
 [![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
-
-<h4>Diversos</h4>
-
 [![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
 [![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)](https://www.libreoffice.org/)
 
