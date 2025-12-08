@@ -1,5 +1,5 @@
 <strong>[Biográfia em Português-BR](https://github.com/danielsdot/danielsdot/blob/main/README-BR.md)</strong>
-  # <p align="justify">Hello, be welcome! ✨</p>
+  <p align="justify"><b>Hello, be welcome! ✨</b></p>
   <p align="justify">I am a "hobbyist" learner, so you could say that I am open to learning whatever comes my way, but my goal is to become a Game Developer 🕹️🎮 because I believe it is one of the <strong>best art forms in existence.</strong> I'm studying Graphic Design, Information Technology, 3D Modeling, Art Direction, and Game Development.</p>
 
 <div align="center">
