@@ -6,6 +6,11 @@
 <img width=50% src=https://i.pinimg.com/1200x/86/64/6e/86646e972075bfd2c4291791d305a209.jpg>
 </div>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielsdot)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/danielsdot#)
+[![ArtStation](https://img.shields.io/badge/ArtStation-000000?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/your-profile-url)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@danielsdot)
+
 ## My knowledge
 ### Languages
 [![HTML](https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -24,10 +29,5 @@
 [![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)](https://www.libreoffice.org/)
 
 ## What work and projects have I done?
-  <a src="">Visit my own <strong>PORTFOLIO!</strong></a> 
-  > Coming soon
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielsdot)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/danielsdot#)
-[![ArtStation](https://img.shields.io/badge/ArtStation-000000?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/your-profile-url)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@danielsdot)
+  Visit my own <strong>PORTFOLIO!</strong>
+  > https://danielsdot.carrd.co/
