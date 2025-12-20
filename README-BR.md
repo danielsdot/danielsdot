@@ -1,5 +1,5 @@
 <strong>[Read my Bio in English](https://github.com/danielsdot/danielsdot/blob/main/README.md)</strong>
-  <p align="justify">Olá, seja bem-vindo! ✨</p>
+  <p align="justify"><b>Olá, seja bem-vindo! ✨</b></p>
     
   > https://danielsdot.carrd.co/
   
