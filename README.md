@@ -6,12 +6,11 @@
   <p align="justify">I am a "hobbyist" learner, so you could say that I am open to learning whatever comes my way, but<br> my goal is to become a Game Developer 🕹️🎮 because I believe it is one of the <strong>best art forms in existence.</strong></p>
 
 ## Knowledge
-<p>Studying without Bachelor... its more about online courses<br>
+<p>Studying without Bachelor... its more about online courses
   
-- Game Development: Information Technology/Computer science<br>
-- Art: Graphic Design, UI/UX, 3D Modeling, Art Direction<br>
+- Game Development: Information Technology/Computer science, Coding stuff with C# in the future will be C++
+- Art: Graphic Design, UI/UX, 3D Modeling, Art Direction, Website Creation (HTML, CSS)
   
-Coding stuff with C#, HTML, CSS in the future will be C++<br>
 I focus to use Gimp, Inkscape, Blender (open-source software), but i know how to use Photoshop, Illustrator, Powerpoint, Linux</p>
 
 <div align="center">
