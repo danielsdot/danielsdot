@@ -6,6 +6,7 @@
   - https://www.linkedin.com/in/danielsdot
   - https://www.behance.net/danielsdot#
   - https://www.artstation.com/daniel_satiro5388
+
 ## Conhecimento 📚
 <p>Estudando sem uma faculdade... mais precisamente com cursos online
 
