@@ -6,7 +6,7 @@
   - https://www.linkedin.com/in/danielsdot
   - https://www.behance.net/danielsdot#
   - https://www.artstation.com/daniel_satiro5388
-## Meu Conhecimento
+## Conhecimento 📚
 <p>Estudando sem uma faculdade... mais precisamente com cursos online
 
 - Desenvolvimento de Jogos: Tecnologia da Informação ou Ciência da Computação, Programação com C# e no futuro com C++
